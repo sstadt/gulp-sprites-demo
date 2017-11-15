@@ -1,0 +1,24 @@
+{
+  "name": "gulp-sprites-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sstadt/gulp-sprites-demo.git"
+  },
+  "author": "Scott Stadt <scott.stadt@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sstadt/gulp-sprites-demo/issues"
+  },
+  "homepage": "https://github.com/sstadt/gulp-sprites-demo#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.3.0",
+    "gulp-svgstore": "^6.1.0"
+  }
+}
